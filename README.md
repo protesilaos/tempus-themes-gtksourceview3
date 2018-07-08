@@ -1,5 +1,7 @@
 # Tempus themes for GTK3 source code highlighting
 
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-gtksourceview3).**
+
 Used in the following applications (non-exhaustive list):
 
 - Gedit (default GNOME text editor)
